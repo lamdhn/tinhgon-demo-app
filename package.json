@@ -1,0 +1,8 @@
+{
+  "name": "tinhgon-demo-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App demo tối giản để test template tinhgon",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
